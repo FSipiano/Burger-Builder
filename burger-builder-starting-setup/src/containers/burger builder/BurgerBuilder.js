@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Burger from '../../components/Layout/Burger/Burger';
 
 class BurgerBuilder extends React.Component {
